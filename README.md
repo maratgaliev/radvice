@@ -23,6 +23,10 @@ radvice
 
 ![radvice](https://api.monosnap.com/file/download?id=VZP52XQOs36iyu0f9wAdvHoPbr8NRt)
 
+## Dependencies
+
+Latest Rust programming language version: https://www.rust-lang.org
+
 ## License
 
 [MIT](http://vjpr.mit-license.org)
